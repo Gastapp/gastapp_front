@@ -39,7 +39,7 @@
     "react-navigation": "^4.3.8",
     "react-navigation-stack": "^2.3.13",
     "rmc-picker": "^5.0.10",
-    "victory-native": "^35.0.0",
+    "victory-native": "^36.6.8",
     "react-native-svg": "11.0.1"
   },
   "jest": {
